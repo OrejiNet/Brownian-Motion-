@@ -46,7 +46,7 @@ todas las librerías vienen preinstaladas).
 
 ## Uso
 
-1. Abre el notebook `langevin_movimiento_browniano.ipynb` en Google Colab.
+1. Abre el notebook `Movimiento_Browniano_Simulation.ipynb` en Google Colab.
 2. Ejecuta las celdas en orden (menú *Entorno de ejecución → Ejecutar todo*).
 3. Ajusta los parámetros de la simulación en la celda correspondiente para
    explorar distintos escenarios (número de partículas, pasos, temperatura,
@@ -65,7 +65,7 @@ Los parámetros principales:
 
 ## Estructura del repositorio
 
-- `langevin_movimiento_browniano.ipynb` — notebook con la simulación, la
+- `Movimiento_Browniano_Simulation.ipynb` — notebook con la simulación, la
   animación y la verificación.
 - `informe.pdf` — informe del proyecto (introducción, desarrollo, resultados y
   conclusiones).
